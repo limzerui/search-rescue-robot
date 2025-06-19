@@ -2,6 +2,9 @@
 
 A custom-built teleoperated robot equipped with LiDAR mapping, colour recognition, and servo-based object manipulation — designed for simulated disaster environments.
 
+
+### Robot Build  
+![Robot](images/robot.png)
 ---
 
 ## Overview
@@ -45,9 +48,6 @@ A custom-built teleoperated robot equipped with LiDAR mapping, colour recognitio
 ---
 
 ## 📸 Screenshots
-
-### Robot Build  
-![Robot](images/robot.jpg)
 
 ### Communications Architecture  
 ![Communications Architecture](images/communications.png)
