@@ -64,4 +64,4 @@ A custom-built teleoperated robot equipped with LiDAR mapping, colour recognitio
 ---
 For an in-depth explanation of the robot’s design, hardware-software architecture, and implementation details, you can refer to our comprehensive final report:
 
-📘 [**Alex to the Rescue – Final Report (PDF)**](Final_report.pdf)
+📘 [**Alex to the Rescue – Final Report (PDF)**](Final_Report.pdf)
